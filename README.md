@@ -3,7 +3,7 @@
 # Overview
 This recreation of the classic flappy bird game allows players to control a bird and navigate it through a course to avoid pipes and gain as many points as you can!
 
-# Instructions to run the code:
+# Instructions to run the code
 1. Make sure that the main.py, settings.py, bird.py, pipe.py and the images folder are all in the same directory.
 2. Run the main.py file to launch the game.
 3. Press the spacebar to make the bird fly!
