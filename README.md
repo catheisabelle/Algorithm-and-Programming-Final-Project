@@ -16,10 +16,17 @@ pip install pygame
 
 # Resources and credits
 https://weeklyhow.com/flappy-bird-unity-tutorial/
+
 https://www.davidayo.com/campgrounds/6356de10c761220016c551fc/
+
 https://youtu.be/GiUGVOqqCKg?si=myuMHhF2pc1Pqio0
+
 https://youtu.be/SGdAYi_qAVg?si=lCR_ET84RLr7FXuw
+
 https://youtu.be/_7er9kqWpG4?si=jARHMJ4WcelkQP37
+
 https://youtu.be/9bWGFWg7gc8?si=S-3NSE_r4okK7TO3
+
 https://youtu.be/-BIM0Uq8cj8?si=uD1i6QIE2rSUVbAp
+
 https://youtu.be/aQJCLfEmSs4?si=WlKeFfCrfLrHcChb
